@@ -1,4 +1,4 @@
-# safe-write-stream
+# safe-write-file
 
 Like `fs.writeFile`, but it will create the needed directories before trying to create the file.
 
