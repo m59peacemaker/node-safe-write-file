@@ -1,6 +1,6 @@
 {
   "name": "safe-write-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like fs.writeFile, but it will create the needed directories before trying to create the file.",
   "keywords": [
     "fs",
@@ -10,6 +10,10 @@
     "mkdir",
     "directories"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/node-safe-write-file"
+  },
   "main": "index.js",
   "scripts": {
     "test": "tape test/**/*.js"
