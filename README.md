@@ -10,10 +10,9 @@ npm install safe-write-file
 ## Usage
 
 ```javascript
-var safeWriteFile = require('safe-write-file');
+var safeWriteFile = require('safe-write-file')
 
-safeWriteFile(__dirname+'/these/will/be/created/file.txt', 'Text, bro!');
-});
+safeWriteFile(__dirname+'/these/will/be/created/file.txt', 'Text, bro!')
 ```
 
 ### Parameters
