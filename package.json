@@ -1,6 +1,6 @@
 {
   "name": "safe-write-file",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Like fs.writeFile, but it will create the needed directories before trying to create the file.",
   "keywords": [
     "fs",
